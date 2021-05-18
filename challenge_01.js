@@ -36,7 +36,7 @@ console.log(zahl1 + zahl2);
 */
 
 //Beispiel 3
-
+/*
 let zahl1, zahl2
 let Summe
 zahl1 = parseInt(prompt("Bitte gebe Zahl1 ein"));
@@ -46,3 +46,4 @@ summe = zahl1 + zahl2
 
       document.write(" Das Ergebnis lautet " + summe );
 console.log(zahl1 + zahl2);
+*/
