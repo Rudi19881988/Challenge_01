@@ -19,7 +19,7 @@ zahl2 = prompt("Bitte gebe Zahl2 ein");
 zahl1 = 15;
 zahl2 = 29;
 
-console.log(zahl1 + zahl2)
+console.log(zahl1 + zahl2);
 */
 
 //Beispiel 2
