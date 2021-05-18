@@ -47,3 +47,15 @@ summe = zahl1 + zahl2
       document.write(" Das Ergebnis lautet " + summe );
 console.log(zahl1 + zahl2);
 */
+
+//Beispiel 4
+/*
+let zahl1, zahl2
+let Summe;
+zahl1 = parseInt(prompt("Bitte Zahl1 eingeben"));
+zahl2 = parseFloat(prompt("Bitte Zahl2 eingeben"));
+
+summe = zahl1 + zahl2
+document.write("Das Ergebnis ist " + summe);
+console.log(zahl1 + zahl2);
+*/
