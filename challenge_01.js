@@ -8,3 +8,15 @@ Berechnen Sie die Summe der Zahlen.
 Geben Sie die Summe der Zahlen in die Konsole aus:
 ‘Die Summe der Zahlen ist: summe ‘
 */
+
+/*
+let zahl1, zahl2
+let Summe
+zahl1 = prompt("Bitte gebe Zahl1 ein");
+zahl2 = prompt("Bitte gebe Zahl2 ein");
+
+zahl1 = 15;
+zahl2 = 29;
+
+console.log(zahl1 + zahl2)
+*/
